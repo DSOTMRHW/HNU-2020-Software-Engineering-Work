@@ -1,0 +1,4 @@
+环境变量里面配置MINGW
+TXT写，改后缀
+cmd执行编译 gcc a.c
+cmd执行 a.exe
