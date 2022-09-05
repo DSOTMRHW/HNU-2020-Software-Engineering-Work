@@ -6,4 +6,9 @@
 （3）完成一个命令行程序， 找出一本英文长篇小说中最常出现的字母数大于 4 的单词的前十名， 和最常出现的两个相邻单词的短语前十名。 并分析程序中最费时的函数是什么， 如何改进？
 
 （4）使用工具Visual Studio，创建一个C++或C# Windows程序，在主窗口中显示“Hello World”，用户可以用鼠标拖动“Hello World”在主窗口中移动。
+
+
+
 love you guys!
+This repository is for recording my work of Sofeware Engineering course.
+Any questions contact me at:dsotwillhuang@foxmail.com
